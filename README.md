@@ -1,6 +1,10 @@
-Welcome to the dataset and the jupyter notebook for Hong Kong JobsDB job posting analysis
-This dataset and notebook can be also found on Kaggle dataset exploratory data anaylsis
+# Computer Vision Assignment 1
+This project is about detect the text from image. We have some techniques to handle image. In this project. We have some pre-processing techniques to handle image in order to detect the image. Also we extract text from the image.
 
-Since we are here, we could agree that data science is a cool profession.
+## Running Environment
+Google Colab
 
-When "Data Science is the sexist job of the 21 century" by Harvard Business Review took a storm on the internet on 2012, Hong Kong was still starting out on the big data trend. So, 10 years has past, what is the status quo of the data industry? To gain insights to answer this question, I have scrapped job postings from one of popular job posting platform in Hong Kong and perform some data analysis.
+## Result
+![image](https://github.com/user-attachments/assets/9be88cb7-b57f-4c2b-9575-8b581c7fa79e)
+![image](https://github.com/user-attachments/assets/e956126e-ef00-4603-b0c6-90847ee347f5)
+![image](https://github.com/user-attachments/assets/d4f72d16-5167-4a94-ab1d-210a77087271)
